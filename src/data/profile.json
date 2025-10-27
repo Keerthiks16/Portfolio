@@ -1,0 +1,35 @@
+{
+  "name": "Keerthik Shetty",
+  "headline": "Full-Stack Developer",
+  "shortIntro": "I transform complex problems into elegant, user-centric digital solutions. Currently exploring the intersection of web development and interactive design.",
+  "location": "Mumbai, India",
+  "resumeUrl": "https://drive.google.com/file/d/1eKG5krHEj8Tgr6-AUupwi1Lnoz2MXYmS/view?usp=sharing",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/keerthik-shetty-167658262",
+    "github": "https://github.com/Keerthiks16",
+    "twitter": "https://twitter.com/your-handle"
+  },
+  "skills": [
+    "JavaScript (ES6+)",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "React Native",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "PostgreSQL",
+    "C++",
+    "Python",
+    "Java",
+    "Git"
+  ],
+  "githubStats": {
+    "repositories": 38,
+    "contributions": "50+"
+  },
+  "codingStats": {
+    "platform": "LeetCode",
+    "questionsSolved": 40
+  }
+}

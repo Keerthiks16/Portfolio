@@ -1,0 +1,171 @@
+[
+  {
+    "id": 1,
+    "title": "Stayfinder",
+    "category": "Web Application",
+    "image": "/assets/projects/stayfinder1.png",
+    "images": [
+      "/assets/projects/stayfinder1.png",
+      "/assets/projects/stayfinder2.png",
+      "/assets/projects/stayfinder3.png",
+      "/assets/projects/stayfinder4.png",
+      "/assets/projects/stayfinder5.png"
+    ],
+    "description": "StayFinder is a full-stack vacation rental platform that connects property owners with travelers looking for unique accommodations across India. The application provides a seamless experience for both guests and hosts with robust features for property listings, bookings, and management.",
+    "features": [
+      "Guest Functionality: Search, filter, and book properties",
+      "Host Functionality: List properties, manage bookings",
+      "Admin Panel: Oversee users, properties, and bookings"
+    ],
+    "sampleCredentials": {
+      "username": "raju@gmail.com",
+      "password": "123456"
+    },
+    "githubLink": "https://github.com/Keerthiks16/Stayfinder",
+    "deployedLink": "https://stayfinder-1a.vercel.app/"
+  },
+  {
+    "id": 2,
+    "title": "MovieFlix",
+    "category": "Web Application",
+    "image": "/assets/projects/movieflix1a.png",
+    "images": [
+      "/assets/projects/movieflix1.png",
+      "/assets/projects/movieflix2.png",
+      "/assets/projects/movieflix3.png",
+      "/assets/projects/movieflix4.png",
+      "/assets/projects/movieflix5.png"
+    ],
+    "description": "MovieFlix is a full-stack streaming and discovery platform that allows users to explore, search, and view details about the latest movies and TV shows. Built using React on the frontend and Node.js with Express and MongoDB on the backend, the app integrates with the TMDB (The Movie Database) API to fetch real-time, high-quality content.",
+    "features": [
+      "Dynamic movie and TV recommendations fetched live from TMDB API",
+      "Integrated trailer viewing and detailed content pages",
+      "Search and watch history tracking for personalized experience"
+    ],
+    "sampleCredentials": {
+      "username": "isha@gmail.com",
+      "password": "123456"
+    },
+    "githubLink": "https://github.com/Keerthiks16/Movie-Website",
+    "deployedLink": "https://movie-website-1a.vercel.app/"
+  },
+  {
+    "id": 3,
+    "title": "Niran",
+    "category": "Website",
+    "image": "/assets/projects/niran1.png",
+    "images": [
+      "/assets/projects/niran1.png",
+      "/assets/projects/niran2.png",
+      "/assets/projects/niran3.png",
+      "/assets/projects/niran4.png",
+      "/assets/projects/niran5.png",
+      "/assets/projects/niran6.png"
+    ],
+    "description": "Niran is a modern e-commerce website built using Next.js 14, Stripe for payments, Tailwind CSS and ShadCN UI for styling, and Zustand to manage the cart. The app lists products (fetched directly from Stripe), allows users to add items to their cart, adjust quantity, and proceed to checkout using Stripe’s secure payment system.",
+    "features": [
+      "Stripe-integrated product listings and secure checkout process",
+      "Add-to-cart system with quantity management and persistent state via Zustand",
+      "Dynamic product carousel and responsive product grid layout",
+      "Minimal backend with a single API route for Stripe Checkout session creation",
+      "Beautiful, modern UI crafted with Tailwind CSS and ShadCN components"
+    ],
+
+    "githubLink": "https://github.com/Keerthiks16/Niran---Ecom-Jewel-Website-with-Stripe-Integration"
+  },
+  {
+    "id": 4,
+    "title": "English to Hindi Speech Converter",
+    "category": "Website",
+    "image": "/assets/projects/englishtohindiconverter.png",
+    "images": ["/assets/projects/englishtohindiconverter.png"],
+    "description": "A modern React web application that converts English audio to Hindi speech through a seamless three-step process: audio transcription, translation, and text-to-speech synthesis.",
+    "features": [
+      "Upload or record English audio (mp3 file) directly in the browser with playback preview",
+      "AI-powered transcription using AssemblyAI with real-time progress tracking",
+      "Automatic translation from English text to Hindi with accurate context retention",
+      "Native browser-based Hindi speech synthesis with adjustable voice settings",
+      "Downloadable transcription and translation with timestamps and metadata"
+    ],
+    "githubLink": "https://github.com/Keerthiks16/English-to-Hindi-Speech-Converter",
+    "deployedLink": "https://english-to-hindi-speech-ajqq.vercel.app/"
+  },
+  {
+    "id": 5,
+    "title": "SarthiSetu",
+    "category": "Website",
+    "image": "/assets/projects/sarthisetu1.png",
+    "images": [
+      "/assets/projects/sarthisetu1.png",
+      "/assets/projects/sarthisetu2.png",
+      "/assets/projects/sarthisetu3.png",
+      "/assets/projects/sarthisetu4.png",
+      "/assets/projects/sarthisetu5.png",
+      "/assets/projects/sarthisetu6.png",
+      "/assets/projects/sarthisetu7.png",
+      "/assets/projects/sarthisetu8.png",
+      "/assets/projects/sarthisetu9.png",
+      "/assets/projects/sarthisetu10.png"
+    ],
+    "description": "SarthiSetu is a AI-powered career and recruitment platform connecting job seekers, recruiters, and mentors. Features include role-based dashboards, AI career guidance, multilingual resume tools, real-time mentorship via video calls, and streamlined job posting and application tracking.",
+    "features": [
+      "Role-based dashboards for Employees and Recruiters with customized functionalities",
+      "AI-powered career recommender, resume summarizer, and multilingual resume builder",
+      "Recruiter dashboard for posting jobs, managing applicants, and tracking hiring status"
+    ],
+    "sampleCredentials": {
+      "username": "kmitra@gmail.com",
+      "password": "123456"
+    },
+    "githubLink": "https://github.com/Keerthiks16/SarthiSetu",
+    "deployedLink": "https://sarthisetuu.vercel.app/"
+  },
+  {
+    "id": 6,
+    "title": "MediConnect",
+    "category": "Web Application",
+    "image": "/assets/projects/mediconnect3.png",
+    "images": [
+      "/assets/projects/mediconnect1.png",
+      "/assets/projects/mediconnect2.png",
+      "/assets/projects/mediconnect3.png",
+      "/assets/projects/mediconnect4.png"
+    ],
+    "description": "MediConnect is a full-stack healthcare management platform that connects patients, doctors, caregivers, and hospitals through a secure, real-time system. The platform facilitates medical record management, appointment scheduling, treatment planning, and communication among all stakeholders.",
+    "features": [
+      "Role-based dashboards for patients, doctors, caregivers, and admins with tailored access",
+      "AI-powered disease prediction and OCR-based medical report extraction",
+      "Real-time messaging and notifications via Socket.io for seamless communication"
+    ],
+    "githubLink": "https://github.com/Keerthiks16/MediConnect"
+  },
+  {
+    "id": 7,
+    "title": "Nexus",
+    "category": "Web Application",
+    "image": "/assets/projects/nexus1.png",
+    "images": [
+      "/assets/projects/nexus1.png",
+      "/assets/projects/nexus2.png",
+      "/assets/projects/nexus3.png",
+      "/assets/projects/nexus4.png",
+      "/assets/projects/nexus5.png",
+      "/assets/projects/nexus6.png",
+      "/assets/projects/nexus7.png",
+      "/assets/projects/nexus8.png",
+      "/assets/projects/nexus9.png"
+    ],
+    "description": "Nexus is a full-stack, real-time social media platform built with a decoupled architecture, featuring a React web client and a React Native (Expo) mobile client, both powered by a single Node.js (Express) backend.",
+    "features": [
+      "Dual-client architecture serving both a React web app and a React Native mobile app from a single Node.js API",
+      "Real-time 1-to-1 and group chat built with Socket.IO, with fully integrated LiveKit video calling",
+      "Hierarchical community forums with nested replies, message voting, and liking systems"
+    ],
+    "sampleCredentials": {
+      "username": "john@gmail.com",
+      "password": "123456"
+    },
+    "githubLink": "https://github.com/Keerthiks16/Nexus",
+    "deployedLink": "https://nexus-1-sigma.vercel.app/"
+  }
+]

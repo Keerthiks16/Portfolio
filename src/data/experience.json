@@ -1,0 +1,19 @@
+{
+  "work": [
+    {
+      "position": "Web and App Developer",
+      "company": "HAWC Technologies",
+      "startDate": "2025-07-09",
+      "endDate": "Present"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Thadomal Shahani Engineering College",
+      "degree": "BE in Artificial Intelligence and Data Science",
+      "startDate": "2019-08-01",
+      "endDate": "2023-05-20",
+      "current": false
+    }
+  ]
+}
